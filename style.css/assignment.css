@@ -227,12 +227,26 @@ padding: 100px;
   text-align: center;
 }
 .okey{
-margin: auto;
-border:40px 20px ;
+justify-content: center;
+
+}
+.okay-s{
+  margin: auto;
 background-color: #e5e9e7;
+text-align: center;
+border: none;
 }
 .mid{
   background-color: #FFFFFF;
   margin: auto;
   padding: 20px;
+}
+.sub{
+  color: #FFFFFF;
+  margin:  auto;
+  border-radius: 8px;
+  padding: 11px 20px;
+  border: none; 
+  text-align: center;
+  background-color: #006A50;
 }
