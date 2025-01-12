@@ -77,6 +77,78 @@ div img{
   font-weight: bold;
   font-size: 60px;
 }
-.between{
 
+.about-item a {
+  text-decoration: none;
+  background-color:
+  color;
+  padding:;
+  border-radius:
+  font-size:
 }
+
+  section ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block: 300px 200px
+    padding: 10px
+
+  }
+  .first-box{
+    background-color:#81B4FC;
+    background-size: 50px 50px ;
+    border-radius: 10px;
+   margin: 10px 15px ;
+
+  }
+  .first-description{
+    font-size: 16px;
+
+  }
+  .first-button{
+   background-color:#5490F5 ;
+   border: none;
+   color: #FFFFFF;
+   padding: 4px 10px;
+  }
+  .second-box{
+    background-color:#C6E4D6;
+    margin: 10px 15px ;
+    border-radius: 10px;
+    background-size: 50px 50px;
+  }
+  .second-button{
+    background-color:#09A15C ;
+    border: none;
+    color: #FFFFFF;
+    padding: 4px 10px;
+  }
+  .third-box{
+    background-color: #FFF7DF;
+    margin: 10px 15px ;
+    border-radius: 10px;
+    background-size: 50px 50px;
+  }
+  .third-button{
+    background-color: #FFD55D;
+    border: none;
+    color: #FFFFFF;
+    padding: 4px 10px;
+  }
+  section ul li{
+    margin: 10px 5px;
+    padding: 20px 20px;
+    justify-content:space-around;
+    align-items: center;
+  }
+  .section-title{
+    margin:10px 5px ;
+    padding: 10px 20px;
+  }
+ .section-description{
+  margin:10px 5px ;
+  padding: ;10px 20px
+ }
+
