@@ -11,11 +11,11 @@
     color: #0E0E0E;
     font-weight: bold;
 }
-.btn-primary{
+nav li a button{
   font-weight: 600;
-  font-size: 18px;
-  color:#006A50
-  padding: 15px ,30px;
+  font-size: 14px;
+  color:#51aa94
+  padding : 15px ,30px;
   border-radius: 8px;
 }
 nav {
@@ -151,4 +151,88 @@ div img{
   margin:10px 5px ;
   padding: ;10px 20px
  }
-
+ .younus
+ {
+  background-color: hsl(231, 30%, 92%);
+  background-image:url( ../assets/quote-bg.png);
+  background-repeat: no-repeat;
+  padding: 32px 32px;
+  background-position: top left;
+  margin: 20px 10px;
+  background-position: 2% 30%;
+ }
+ .read-button{
+  background-color: #006A50;
+  color: #FFFFFF;
+  margin: 10px 15px ;
+  border-radius: 8px;
+  padding: 11px 20px;
+  border: none;
+ }
+ .statelite{
+  margin: 100px 50px;
+  background-color: hsla(0, 10%, 94%, 0.838);
+  border-radius: 8px;
+ }
+.pic{
+  border-bottom: 24px;
+}
+.donation{
+  margin: auto;
+  text-align: center;
+  font-size: xx-large;
+}
+.para{
+  text-align: center;
+}
+.money{
+  margin: 20px 300px;
+ 
+}
+.taka{
+  background-color: #C6E4D6;
+  padding: 30px 60px;
+  border-radius: 10px;
+  font-weight: 200px;
+  
+}
+.taka-s{
+  background-color: #e5e9e7;
+  padding: 30px 60px;
+  border-radius: 10px;
+  font-weight: 200px;
+}
+.finish{
+  color: #FFFFFF;
+  margin: 0 auto;
+  border-radius: 8px;
+  padding: 11px 20px;
+  border: none; 
+  transform: translateY(-50%);
+  text-align: center;
+  background-color: #006A50;
+ 
+}
+.sesh{
+text-align: center;
+padding: 100px;
+}
+.hope-last{
+  background-color: #C6E4D6;
+  color: #1f0202;
+  margin: 10px 15px ;
+  border-radius: 8px;
+  padding: 11px 20px;
+  border: 100px; 
+  text-align: center;
+}
+.okey{
+margin: auto;
+border:40px 20px ;
+background-color: #e5e9e7;
+}
+.mid{
+  background-color: #FFFFFF;
+  margin: auto;
+  padding: 20px;
+}
